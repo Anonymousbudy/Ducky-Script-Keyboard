@@ -1,0 +1,21 @@
+{
+"name": "Ducky Script Generator",
+"short_name": "Ducky Script",
+"description": "A simple and professional Ducky Script generator.",
+"start_url": "./DuckyScript Keyboard.HTML",
+"display": "standalone",
+"background_color": "#121212",
+"theme_color": "#1E1E1E",
+"icons": [
+{
+"src": "https://www.google.com/search?q=https://placehold.co/192x192/424242/E0E0E0%3Ftext%3DD",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "https://www.google.com/search?q=https://placehold.co/512x512/424242/E0E0E0%3Ftext%3DD",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
